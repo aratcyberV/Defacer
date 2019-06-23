@@ -8,6 +8,7 @@
  $ pkg install python2 
  $ pkg install bash 
  $ pkg install lolcat 
+ $ git clone https://github.com/aratcyberV/Defacer.git
  $ cd /sdcard 
  $ sh RD.sh 
  .
