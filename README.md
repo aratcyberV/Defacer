@@ -9,9 +9,9 @@
  $ pkg install bash 
  $ pkg install lolcat 
  $ git clone https://github.com/aratcyberV/Defacer.git
- $ cd /sdcard 
+ $ cd Defacer
  $ sh RD.sh 
- .
+ (dan langkah selanjutnya jalankan seperti perintah)
  ### Media: 
  My youtube ~> https://www.youtube.com/channel/UCt4tz1sWIcBtBfrVN5UU2iw 
  My Github ~> https://github.com/aratcyberV  
